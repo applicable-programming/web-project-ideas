@@ -74,3 +74,7 @@ Imagine meeting your favourite developer/investor/mentor, and he asks you:
 - What is the most difficult thing (and why)?
 
 If you start with your project, and after a month you can answer these questions from above, you are ready for an interview with a company that uses the technology you are learning. 
+
+
+> Made by: [ApplicableProgramming.com](https://applicableprogramming.com) <br /> 
+> Youtube: [ApplicableProgramming](https://www.youtube.com/c/ApplicableProgramming/)
