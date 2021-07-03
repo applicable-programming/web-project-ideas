@@ -1,4 +1,4 @@
-[![Applicable Programming logo](https://s3.amazonaws.com/contents.newzenler.com/3161/library/60e0d31eb3efa_1625346846_applicable-programming-logo-blue-github-title.png "Applicable Programming logo")](https:applicableprogramming.com "Applicable Programming")
+[![Applicable Programming logo](https://s3.amazonaws.com/contents.newzenler.com/3161/library/60e0d31eb3efa_1625346846_applicable-programming-logo-blue-github-title.png "Applicable Programming logo")](https://applicableprogramming.com "Applicable Programming")
 
 <h1 align="center">Web-project-ideas</h1>
 
