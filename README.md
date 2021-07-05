@@ -12,6 +12,7 @@ Sometimes it is difficult to come up with an idea for our next project. Whether 
 
 Video instruction here :
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OMNgpnbStew/0.jpg)](https://www.youtube.com/watch?v=OMNgpnbStew)
 
  
 
